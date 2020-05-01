@@ -1,0 +1,7 @@
+{
+  "canisters": {
+    "b": {
+      "main": "main.mo"
+    }
+  }
+}
